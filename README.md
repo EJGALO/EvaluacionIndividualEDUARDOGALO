@@ -1,4 +1,4 @@
-Evaluación 2: PRUEBA INDIVIDUAL 27/02/2020
+***Evaluación 2: PRUEBA INDIVIDUAL 27/02/2020
 
 EDUARDO JARED GALO ERAZO
 
@@ -15,7 +15,7 @@ Se nos pide ademas, crear  una serie de metodos como el comprobar el consumo ene
 
 Para responder a las demandas de la evaluación se optó por crear  las 4 clases pedidas, primero asignando los atributos de cada una y fijando las constantes, para luego abordar cada clase individualmente:
 
-Clase: Electrodomestico:
+**Clase: Electrodomestico:
 
 Luego de crear las variables y sus respectivos getters,  se optó por crear un menu switch dentro del metodo precio final,  el cual considera el  valor de la variable consumo energetico según la letra asignada. 
 
@@ -23,11 +23,11 @@ A su vez, en este metodo se incluyó tambien un condicional if para poder determ
 
 Finalmente, se crearon los constructores pedidos. 
 
-Clase: Lavadora y Television
+**Clase: Lavadora y Television
 
 Ipara estas clases bastó con crear metodos diferentes del metodo precioFinal, los cuales  varian según las indicaciones dadas por el ejercicio.
 
-Clase main:
+**Clase main:
 
 Se inicializaron los valores de la suma de los electrodomesticos, televisores y lavadoras en 0. 
 Seguido de esto  se procede a crear un arreglo de 10 posiciones en el cual luego se crean nuevas instancias de  cada clase con valores dados de manera arbitraria según el tipo de producto.
